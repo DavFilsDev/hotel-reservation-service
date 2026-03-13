@@ -37,3 +37,16 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# IDE files
+.idea/
+
+# Build tools
+*.log
+*.lock
+
+# OS files
+Thumbs.db
+
+# Maven specific
+log/
